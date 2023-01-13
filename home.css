@@ -1,0 +1,33 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  background-color: #f70e0e;
+}
+.home-text {
+  color: rgb(249, 241, 9);
+  font-size: 48px;
+}
+.home-text01 {
+  width: var(--dl-size-size-xxlarge);
+  height: var(--dl-size-size-large);
+  align-self: center;
+}
+.home-text07 {
+  color: #f5f707;
+  font-size: 38px;
+}
+.home-text08 {
+  font-size: 38px;
+}
+.home-text09 {
+  top: 283px;
+  left: 467px;
+  color: rgb(247, 230, 7);
+  position: absolute;
+  font-size: 38px;
+  text-decoration: none;
+}
